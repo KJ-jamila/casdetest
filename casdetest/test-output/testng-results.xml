@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="51976" started-at="2020-05-13T18:28:28 WET" finished-at="2020-05-13T18:29:20 WET">
+  <suite name="Suite" duration-ms="61142" started-at="2020-05-13T22:25:33 WET" finished-at="2020-05-13T22:26:34 WET">
     <groups>
     </groups>
-    <test name="Test1" duration-ms="26652" started-at="2020-05-13T18:28:28 WET" finished-at="2020-05-13T18:28:55 WET">
+    <test name="Test1" duration-ms="38194" started-at="2020-05-13T22:25:33 WET" finished-at="2020-05-13T22:26:11 WET">
       <class name="test.sample.login">
-        <test-method status="PASS" signature="logining()[pri:0, instance:test.sample.login@73d4cc9e]" name="logining" duration-ms="26573" started-at="2020-05-13T18:28:28 WET" finished-at="2020-05-13T18:28:55 WET">
+        <test-method status="PASS" signature="logining()[pri:0, instance:test.sample.login@73d4cc9e]" name="logining" duration-ms="38099" started-at="2020-05-13T22:25:33 WET" finished-at="2020-05-13T22:26:11 WET">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- logining -->
       </class> <!-- test.sample.login -->
     </test> <!-- Test1 -->
-    <test name="Test2" duration-ms="25215" started-at="2020-05-13T18:28:55 WET" finished-at="2020-05-13T18:29:20 WET">
+    <test name="Test2" duration-ms="22642" started-at="2020-05-13T22:26:11 WET" finished-at="2020-05-13T22:26:34 WET">
       <class name="test.sample.Creationcompte">
-        <test-method status="PASS" signature="Creer()[pri:0, instance:test.sample.Creationcompte@58a90037]" name="Creer" duration-ms="25206" started-at="2020-05-13T18:28:55 WET" finished-at="2020-05-13T18:29:20 WET">
+        <test-method status="PASS" signature="Creer()[pri:0, instance:test.sample.Creationcompte@58a90037]" name="Creer" duration-ms="22635" started-at="2020-05-13T22:26:11 WET" finished-at="2020-05-13T22:26:34 WET">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Creer -->
