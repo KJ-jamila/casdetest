@@ -30,7 +30,7 @@ public class login {
 	driver.findElement(By.xpath("//*[@id=\"ap_password\"] ")).sendKeys("Jamila1234@");
 	driver.findElement(By.xpath("//*[@id=\"signInSubmit\"]")).click(); 
 	driver.findElement(By.xpath("//*[@id=\"continue\"]")).click(); 
-	Thread.sleep(3000);
+	
 	//driver.findElement(By.xpath(" //*[@id=\"cvf-page-content\"]/div/div/div[1]/form/div[2]/input")).sendKeys();
 	//driver.findElement(By.xpath("//*[@id=\"dmF__4AiR_D-SHfWQBiL8w\"]/div[2]/a/div")).click(); 
 
