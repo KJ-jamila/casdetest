@@ -69,7 +69,7 @@
 				<configuration>
 					<!-- Old design where we can hard code TestNG suite in pom.xml -->
 					<!-- <suiteXmlFiles>
-						<suiteXmlFile>testNG.xml</suiteXmlFile>
+						<suiteXmlFile>testng.xml</suiteXmlFile>
 					</suiteXmlFiles> -->
 					<suiteXmlFiles>
 						<suiteXmlFile>${suiteXmlFile}</suiteXmlFile>
