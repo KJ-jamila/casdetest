@@ -7,7 +7,7 @@ import org.testng.annotations.Test;
 public class Creationcompte {
                @Test	
                
-                public void login() {
+                public void Creer () {
 		         // System Property for Chrome Driver   
 		      System.setProperty("webdriver.chrome.driver", "C:\\Users\\DELL\\Desktop\\selenium\\chromedriver.exe");  
 		        
