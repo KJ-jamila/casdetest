@@ -19,7 +19,7 @@ public class login {
 		WebDriver driver=new ChromeDriver();  
 		
 		// Launch Website  
-	 driver.navigate().to("https://www.amazon.fr"); 		        
+	 driver.get("https://www.amazon.fr"); 		        
 	 //Maximize the browser  
 	driver.manage().window().maximize(); 
 	// Click on the Search button  
